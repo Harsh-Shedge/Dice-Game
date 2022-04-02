@@ -7,5 +7,5 @@ Start a new game at anytime.
 
 
 
-Use the link below to preview the html file https://htmlpreview.github.io/
+
 
